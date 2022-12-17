@@ -1,4 +1,3 @@
-
 interface Book {
     audience: string;
     author: string;
